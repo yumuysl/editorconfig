@@ -73,10 +73,6 @@ opt.formatexpr = "v:lua.require'lazyvim.util'.format.formatexpr()"
 opt.formatoptions = "jcroqlnt" -- tcqj
 opt.grepformat = "%f:%l:%c:%m"
 opt.grepprg = "rg --vimgrep"
-opt.guifont = "DejaVuSansM Nerd Font Mono:h12"
-
-vim.g.lazyvim_settings = nil
-
 opt.ignorecase = true -- Ignore case
 opt.inccommand = "nosplit" -- preview incremental substitute
 opt.jumpoptions = "view"
