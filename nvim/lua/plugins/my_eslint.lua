@@ -11,6 +11,8 @@ return {
           mode = "all",
         },
         useFlatConfig = true, -- 支持 ESLint v9+ 的 Flat Config
+        workingDirectory = { mode = "auto" },
+        root = true,
       },
       filetypes = { -- 覆盖支持的文件类型
         "javascript",
