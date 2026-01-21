@@ -23,7 +23,15 @@ return {
         "react",
         "astro",
         "lua",
+        "sass",
+        "mjs",
+        "cjs",
+        "mts",
+        "cts",
       },
+    }
+    default_opts.inlay_hints = {
+      inlay_hints = { enabled = false },
     }
     return default_opts
   end,

@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "3314941873dade80",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff9f292f8041149",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "469bae29620ded9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "growthrecord/2026/1/20.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "20"
+            }
+          },
+          {
+            "id": "2820ec39510c251c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bestoaloesource/src/notes/codecourse/datastru/8. 搜索.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8. 搜索"
+            }
+          },
+          {
+            "id": "4a6fcf002c748b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bestoaloesource/src/notes/frontnotes/frontbase/js笔记.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js笔记"
+            }
+          },
+          {
+            "id": "3a7ab1f7910a04b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bestoaloesource/src/notes/ai/Qwen Code.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Qwen Code"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "703377a06c339610",
+    "type": "split",
+    "children": [
+      {
+        "id": "79e8d21f5df0d9f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13cd5f552cdde864",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "322a7b88f17358a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "376cb9a31d838f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "02c7730a738b52f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28d48a05bfbdd634",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bestoaloesource/src/notes/endnotes/domain/Linux笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linux笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "18f6e6a72fafe30c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "bestoaloesource/src/notes/endnotes/domain/Linux笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Linux笔记 的出链列表"
+            }
+          },
+          {
+            "id": "2cb30df7e5d8aee6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bestoaloesource/src/notes/ai/Qwen Code.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Qwen Code 的大纲"
+            }
+          },
+          {
+            "id": "8f519433a86ea381",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3ec954e1d2f4ebed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "692f868e76d25fe0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "bestoaloesource/src/notes/codecourse/datastru/图.md"
+              },
+              "icon": "lucide-info",
+              "title": "图的笔记属性"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "3a7ab1f7910a04b2",
+  "lastOpenFiles": [
+    "bestoaloesource/src/notes/ai/其他开源Ai工具.md",
+    "bestoaloesource/src/notes/ai/Qwen Code.md",
+    "bestoaloesource/src/notes/ai/n8n.md",
+    "growthrecord/开发相关/相关账号备忘.md",
+    "bestoaloesource/src/codeshare/othershare/Lazyvim编辑器.md",
+    "bestoaloesource/src/notes/codecourse/compnet/README.md",
+    "bestoaloesource/src/notes/frontnotes/frontbase/js笔记.md",
+    "growthrecord/2026/1/20.md",
+    "bestoaloesource/src/notes/codecourse/datastru/8. 搜索.md",
+    "growthrecord/2026/1/18.md",
+    "bestoaloesource/src/plan/未来三个月短期规划（更新）.md",
+    "bestoaloesource/src/plan/learn/需求调研.md",
+    "bestoaloesource/src/notes/codecourse/datastru/12. 经典问题汇总.md",
+    "bestoaloesource/src/plan/learn/书单.md",
+    "bestoaloesource/src/plan/learn/工作or学习环境布置.md",
+    "bestoaloesource/src/notes/frontnotes/frontsum/React笔记.md",
+    "bestoaloesource/src/notes/endnotes/endframe/node.js框架.md",
+    "bestoaloesource/src/notes/endnotes/endframe/node.js基础笔记.md",
+    "bestoaloesource/src/notes/endnotes/endframe/mqtt笔记.md",
+    "bestoaloesource/src/notes/endnotes/endframe/Rust笔记.md",
+    "bestoaloesource/src/notes/endnotes/endframe/README.md",
+    "bestoaloesource/src/notes/codecourse/datastru/9. 分治算法.md",
+    "bestoaloesource/src/notes/codecourse/datastru/10. 回溯算法.md",
+    "bestoaloesource/src/notes/codecourse/datastru/11. 动态规划.md",
+    "bestoaloesource/src/notes/codecourse/datastru/1. 复杂度分析.md",
+    "bestoaloesource/src/notes/codecourse/datastru/0. 数据结构刷题总结.md",
+    "bestoaloesource/src/notes/ai",
+    "notefile/简历/投国企/~$b前端开发工程师 禹建伟 18397171404.docx",
+    "notefile/简历/前端/~$开发工程师  禹建伟 18397171404.docx",
+    "notefile/简历/前端/~$开发工程师  禹建伟 18397171404 - 副本.docx",
+    "notefile/简历/前端/~$开发工程师  禹建伟 18397171404  - 商城系统.docx",
+    "notefile/简历/前端/~$b前端开发工程师  禹建伟 18397171404.docx",
+    "worklog/笔记相关/cs.pdf",
+    "notefile/简历/前端/web前端开发工程师  禹建伟 18397171404 2023版.pdf",
+    "notefile/简历/投国企/web前端开发工程师 禹建伟 18397171404.docx",
+    "notefile/简历/简历模板/浅蓝色大气醒目通用求职简历.docx",
+    "notefile/简历/创业比赛.jpg",
+    "projects/项目回收站/记订单/参考图.jpg",
+    "blog/logo3.svg",
+    "blog/logo3.png",
+    "blog/logo2.svg",
+    "blog/logo2.png",
+    "blog/bgImage/street-gc9ebc5c02_1920.jpg",
+    "blog/bgImage/bg_home6.jpg",
+    "blog/bgImage/bg_home3.jpg",
+    "blog/bgImage/bg_home5.jpg",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

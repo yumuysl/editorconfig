@@ -14,6 +14,11 @@ return {
       typescriptreact = { "prettier" },
       json = { "prettier" },
       javascriptreact = { "prettier" },
+      jsonc = { "prettier" },
+      scss = { "prettier" },
+      less = { "prettier" },
+      postcss = { "prettier" },
+      yaml = { "prettier" },
     },
     format_on_save = { -- 保存时自动格式化
       timeout_ms = 500,

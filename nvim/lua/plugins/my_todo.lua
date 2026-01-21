@@ -9,8 +9,8 @@ return {
         FIX = { icon = "", color = "#f59292", alt = { "FIX，待修复的BUG" } },
         WARN = { icon = "", color = "#f0e3c4", alt = { "WARN，潜在风险提示" } },
         HACK = { icon = " ", color = "#6c5b7b", alt = { "HACK" } },
-        PERF = { icon = "", color = "#eccfd1", alt = { "PERF，性能优化" } },
-        TEST = { icon = "⏲ ", color = "test", alt = { "TESTING", "PASSED", "FAILED" } },
+        PERF = { icon = "", color = "#98FB98", alt = { "PERF，性能优化" } },
+        TEST = { icon = "⏲ ", color = "#FFDAB9", alt = { "TESTING", "PASSED", "FAILED" } },
       },
       -- 显式指定 rg 路径（Windows）
       -- cmd = "D:\\ripgrep14.1.1\\rg.exe",

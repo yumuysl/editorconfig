@@ -11,7 +11,7 @@ config.window_background_opacity = 1
 -- 主题配置
 config.color_scheme = "Everforest Dark (Gogh)"
 -- config.color_scheme = "Birds Of Paradise (Gogh)"
--- config.color_scheme = "X::Erosion (terminal.sexy)"   --防偷窥
+-- config.color_scheme = "X::Erosion (terminal.sexy)" --防偷窥
 
 -- 标签栏与分屏
 config.hide_tab_bar_if_only_one_tab = true -- 仅一个标签时隐藏标签栏
@@ -19,16 +19,16 @@ config.enable_tab_bar = true
 
 local launch_path_menu = {
 	{
-		label = "express模板",
+		label = "express项目",
 		args = { "powershell.exe" },
-		cwd = "F:/code/myProjects/express/Developer/server-template",
+		cwd = "F:/code/myProjects/express/Developer/",
 	},
 	{
-		label = "react模板",
+		label = "react项目",
 		args = {
 			"powershell.exe",
 		},
-		cwd = "F:/code/myProjects/react/backend-template",
+		cwd = "F:/code/myProjects/react/",
 	},
 	{
 		label = "LazyVim配置",

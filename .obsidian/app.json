@@ -1,0 +1,20 @@
+{
+  "useMarkdownLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachfile",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "useTab": false,
+  "autoConvertHtml": false,
+  "rightToLeft": false
+}
