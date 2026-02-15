@@ -1,0 +1,12 @@
+{
+  "Print to console": {
+    "prefix": "log",
+    "body": "console.log('$1', $2);",
+    "description": "Log to console with label"
+  },
+  "Create Callback Function": {
+    "prefix": "cfn",
+    "body": ["const ${1} = (${2}) => {", "  ${3}", "};"],
+    "description": "Create a callback function"
+  }
+}

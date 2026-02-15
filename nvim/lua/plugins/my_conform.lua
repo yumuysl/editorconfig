@@ -19,6 +19,7 @@ return {
       less = { "prettier" },
       postcss = { "prettier" },
       yaml = { "prettier" },
+      astro = { "prettier" },
     },
     format_on_save = { -- 保存时自动格式化
       timeout_ms = 500,

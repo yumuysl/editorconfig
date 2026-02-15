@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "469bae29620ded9c",
+            "id": "2bbc27cfcbe8ea15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "growthrecord/2026/1/20.md",
+                "file": "growthrecord/2026/02/15.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20"
-            }
-          },
-          {
-            "id": "2820ec39510c251c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bestoaloesource/src/notes/codecourse/datastru/8. 搜索.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "8. 搜索"
+              "title": "15"
             }
           },
           {
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bestoaloesource/src/notes/frontnotes/frontbase/js笔记.md",
+                "file": "bestoaloesource/src/plan/website/Astro博客.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +52,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "js笔记"
+              "title": "Astro博客"
             }
           },
           {
-            "id": "3a7ab1f7910a04b2",
+            "id": "042560b333e04b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bestoaloesource/src/notes/ai/Qwen Code.md",
+                "file": "bestoaloesource/src/plan/learn/博客记录方式.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "博客记录方式"
+            }
+          },
+          {
+            "id": "b8c9438ac1bb143b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bestoaloesource/src/notes/endnotes/endframe/node.js框架.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Qwen Code"
+              "title": "node.js框架"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bestoaloesource/src/notes/ai/Qwen Code.md",
+                "file": "bestoaloesource/src/plan/learn/博客记录方式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Qwen Code 的大纲"
+              "title": "博客记录方式 的大纲"
             }
           },
           {
@@ -244,10 +244,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "bestoaloesource/src/notes/codecourse/datastru/图.md"
+                "file": "bestoaloesource/src/plan/learn/博客记录方式.md"
               },
               "icon": "lucide-info",
-              "title": "图的笔记属性"
+              "title": "博客记录方式的笔记属性"
             }
           }
         ],
@@ -259,54 +259,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "3a7ab1f7910a04b2",
+  "active": "2cb30df7e5d8aee6",
   "lastOpenFiles": [
-    "bestoaloesource/src/notes/ai/其他开源Ai工具.md",
-    "bestoaloesource/src/notes/ai/Qwen Code.md",
-    "bestoaloesource/src/notes/ai/n8n.md",
-    "growthrecord/开发相关/相关账号备忘.md",
-    "bestoaloesource/src/codeshare/othershare/Lazyvim编辑器.md",
-    "bestoaloesource/src/notes/codecourse/compnet/README.md",
-    "bestoaloesource/src/notes/frontnotes/frontbase/js笔记.md",
-    "growthrecord/2026/1/20.md",
-    "bestoaloesource/src/notes/codecourse/datastru/8. 搜索.md",
-    "growthrecord/2026/1/18.md",
-    "bestoaloesource/src/plan/未来三个月短期规划（更新）.md",
-    "bestoaloesource/src/plan/learn/需求调研.md",
-    "bestoaloesource/src/notes/codecourse/datastru/12. 经典问题汇总.md",
-    "bestoaloesource/src/plan/learn/书单.md",
     "bestoaloesource/src/plan/learn/工作or学习环境布置.md",
-    "bestoaloesource/src/notes/frontnotes/frontsum/React笔记.md",
+    "bestoaloesource/src/plan/learn/博客记录方式.md",
+    "bestoaloesource/src/codeshare/othershare/Lazyvim编辑器.md",
+    "bestoaloesource/src/codeshare/othershare/开源项目避坑指南.md",
+    "bestoaloesource/src/codeshare/othershare/开源项目贡献指南.md",
+    "bestoaloesource/src/codeshare/othershare/实用开源软件分享.md",
+    "bestoaloesource/src/codeshare/othershare/提升vim编辑体验.md",
+    "growthrecord/开发相关/相关账号备忘.md",
     "bestoaloesource/src/notes/endnotes/endframe/node.js框架.md",
-    "bestoaloesource/src/notes/endnotes/endframe/node.js基础笔记.md",
-    "bestoaloesource/src/notes/endnotes/endframe/mqtt笔记.md",
-    "bestoaloesource/src/notes/endnotes/endframe/Rust笔记.md",
-    "bestoaloesource/src/notes/endnotes/endframe/README.md",
-    "bestoaloesource/src/notes/codecourse/datastru/9. 分治算法.md",
-    "bestoaloesource/src/notes/codecourse/datastru/10. 回溯算法.md",
-    "bestoaloesource/src/notes/codecourse/datastru/11. 动态规划.md",
-    "bestoaloesource/src/notes/codecourse/datastru/1. 复杂度分析.md",
-    "bestoaloesource/src/notes/codecourse/datastru/0. 数据结构刷题总结.md",
+    "growthrecord/2026/02/15.md",
+    "growthrecord/2026/02/14.md",
+    "growthrecord/2026/02/13.md",
+    "growthrecord/2026/02/11.md",
+    "bestoaloesource/src/notes/frontnotes/frontsum/TS笔记.md",
+    "bestoaloesource/src/notes/codecourse/math/LaTeX公式.md",
+    "bestoaloesource/src/notes/codecourse/math/高等数学.md",
+    "bestoaloesource/src/plan/website/Astro博客.md",
+    "bestoaloesource/src/notes/codecourse/math/线性代数.md",
+    "bestoaloesource/src/notes/codecourse/math/README.md",
+    "bestoaloesource/src/plan/projects/流程图绘制.md",
+    "bestoaloesource/src/notes/codecourse/compnet/常用网络知识.md",
+    "bestoaloesource/src/notes/codecourse/compnet/整体概念.md",
+    "bestoaloesource/src/notes/codecourse/README.md",
+    "growthrecord/2026/02/09.md",
+    "growthrecord/2026/02/08.md",
+    "growthrecord/2026/02/07.md",
+    "growthrecord/开发相关/其他模板",
+    "growthrecord/2026/02",
+    "growthrecord/2026/01",
+    "growthrecord/2026/1/未命名.base",
     "bestoaloesource/src/notes/ai",
     "notefile/简历/投国企/~$b前端开发工程师 禹建伟 18397171404.docx",
     "notefile/简历/前端/~$开发工程师  禹建伟 18397171404.docx",
     "notefile/简历/前端/~$开发工程师  禹建伟 18397171404 - 副本.docx",
     "notefile/简历/前端/~$开发工程师  禹建伟 18397171404  - 商城系统.docx",
     "notefile/简历/前端/~$b前端开发工程师  禹建伟 18397171404.docx",
-    "worklog/笔记相关/cs.pdf",
-    "notefile/简历/前端/web前端开发工程师  禹建伟 18397171404 2023版.pdf",
-    "notefile/简历/投国企/web前端开发工程师 禹建伟 18397171404.docx",
-    "notefile/简历/简历模板/浅蓝色大气醒目通用求职简历.docx",
     "notefile/简历/创业比赛.jpg",
     "projects/项目回收站/记订单/参考图.jpg",
     "blog/logo3.svg",

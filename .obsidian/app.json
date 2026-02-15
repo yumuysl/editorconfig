@@ -16,5 +16,6 @@
   "alwaysUpdateLinks": true,
   "useTab": false,
   "autoConvertHtml": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "foldHeading": true
 }
