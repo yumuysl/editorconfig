@@ -16,8 +16,8 @@
 
 -- neanias/everforest-nvim
 return {
-  { "neanias/everforest-nvim", priority = 1000 },
-  { "LazyVim/LazyVim", opts = { colorscheme = "everforest" } },
+	{ "neanias/everforest-nvim", priority = 1000 },
+	{ "LazyVim/LazyVim", opts = { colorscheme = "everforest" } },
 }
 
 -- gruvbox
